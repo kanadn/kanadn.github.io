@@ -13,7 +13,7 @@ I am a software developer at Hansen Technologies, where I develop and configure 
 
 # Talks
 - **Webinar on Innovative and Collaborative Approaches for Scaling Capstone Projects**, at the Institution’s Innovation Council, Modern Education Society's College of Engineering (IIC MESCOE)   
-Introduced undergraduate students to various approaches useful for scaling capstone projects. Covered concepts on REST APIs, Docker, Kubernetes and Jenkins.
+Introduced undergraduate students to various approaches useful for scaling capstone projects. Covered concepts on REST APIs, Docker, Kubernetes and Jenkins.   
 [Recording](https://youtu.be/oJxcZPTjklg)
 
 # Publications

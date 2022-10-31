@@ -83,7 +83,7 @@ author:
   avatar           : "kanad.jpg"
   bio              : "Software Developer <br> Hansen Technologies"
   location         : "Pune, India" #"Blacksburg, VA"
-  employer         : "Hansen Technologies"
+  employer         : #"Hansen Technologies"
   googlescholar    : #"https://scholar.google.com/citations?hl=en&user=CjxQvikAAAAJ"
   email            : "kanad.naleshwarkar@gmail.com"
   cv               : "/files/Kanad_Naleshwarkar_Resume.pdf"
@@ -103,7 +103,7 @@ author:
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : "https://stackoverflow.com/users/11423025/kanad"
+  stackoverflow    : "11423025/kanad"
   steam            :
   tumblr           :
   twitter          : "@Kanad_N"

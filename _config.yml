@@ -6,6 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
+version                  : "1.1.1"  #Major_Publish.Feature_Added.Minor_Update
 locale                   : "en-US"
 title                    : "Kanad Naleshwarkar"
 title_separator          : " "
@@ -72,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider: "google-gtag"
+  provider: "google"
   google:
     tracking_id: "G-BZQLWXKEX5"
     anonymize_ip: false # default

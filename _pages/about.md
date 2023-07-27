@@ -11,7 +11,10 @@ redirect_from:
 
 Currently pursuing a Master of Engineering degree in Computer Science at Virginia Tech.
 
-Previously, a software developer at Hansen Technologies, where I worked on developing and configuring an operations support system (OSS) for telecommunications service providers. My tasks included developing adapters in Java, that could communicate with the legacy and the latest components through APIs to enable service provisioning. I learned to develop a robust and scalable product by containerizing it with Docker, managing multiple containers with Kubernetes, scaling them with multiple nodes, triggering a build with Jenkins and finally deploying the product on the cloud with Amazon Web Services (AWS).
+Previously, a software developer at Hansen Technologies, where I worked on developing and configuring an operations support system (OSS) for telecommunications service providers.  
+For the summer of 2023, I joined Hansen again on a contract basis and contributed toward streamlining the training process for new hires. By creating well-structured training modules and comprehensive documentation, I helped reduce the onboarding time so that new team members could quickly start contributing to the project.  
+
+Please feel free to visit other sections of this site to know more about me!
 
 # Talks
 - **Webinar on Innovative and Collaborative Approaches for Scaling Capstone Projects**, at the Institution’s Innovation Council, Modern Education Society's College of Engineering (IIC MESCOE)   
@@ -28,6 +31,7 @@ Dr. Jayshree Pansare, Kanad Naleshwarkar, Nitish Prajapati, Aditya Muley
 
 # News
 
+- **May, 2023:** Joined Hansen Technologies again as a software developer on a contract basis for the summer.
 - **January, 2023:** Thrilled to join [Virginia Tech](https://www.vt.edu/) for MEng in CS course!
 - **August, 2022:** Gave a talk at the [IIC MESCOE](https://mescoe.mespune.org/institutions-innovation-council-iic-mescoe/) on Innovative and Collaborative Approaches for Scaling Capstone Projects. Recording is available [here](https://youtu.be/oJxcZPTjklg).
 - **November, 2020:** Joined Hansen Technologies as an associate software developer.

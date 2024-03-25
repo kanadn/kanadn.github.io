@@ -5,6 +5,9 @@ permalink: /portfolio/
 author_profile: true
 ---
 
+- **Electronic Theses and Dissertations Classifier (Aug 2023 – Jan 2024)**
+    > Trained and deployed a document classifier model for an information retrieval system managing 500k scientific documents. Also developed a standalone app to perform experiments. Used Streamlit for frontend and PostgreSQL to store data. Deployed this app on the university’s highperformance computing server to utilize GPU computing and get faster inference.
+
 - **Evaluating Cross-Modal Retrieval Performance of DiHT Model on Conceptual Captions Dataset (Jan 2023 – May 2023)**
     > Evaluated Meta’s DiHT model on Google’s Conceptual Captions dataset, assessing its performance in both image-to-text and text-to-image retrieval tasks. Effectively utilized several instances of Google Colab and Kaggle Jupyter notebooks to speed up the evaluation.  
     [GitHub Repo](https://github.com/kanadn/DiHT-GCC)

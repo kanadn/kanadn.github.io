@@ -11,12 +11,13 @@ Software Developer (Consultant)
  - Engineered a robust bulk order processing tool utilizing OpenSearch technology, enabling efficient retrieval and reprocessing of failed telecom orders.
  - Leveraged prior experience to write comprehensive training modules and detailed documentation for new hires, shortening their training period by 50%
  - Collaborated with a team of support analysts to draft Standard Operating Procedures (SOPs) that optimized troubleshooting processes, resulting in enhanced productivity and streamlined operations.
+
   
 <br>    
 
 **Hansen Technologies, Pune, India (Nov 2020 – Dec 2022)**  
 Software Developer
- - Led the development of Java adapters to enable seamless communication between the service provisioning product and ground telecom components using REST APIs.
+ - Led the development of REST APIs written in Java to enable communication between the service provisioning product and ground telecom components, tailoring solutions to meet specific client needs.
  - Handled the complete containerization process of microservices using Docker, orchestrating seamless container management and scaling through Kubernetes across multiple nodes.
  - Spearheaded the establishment of robust CICD pipelines with Jenkins, automating the deployment process on AWS and reducing the
 deployment time by 75%

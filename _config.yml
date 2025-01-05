@@ -6,12 +6,12 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-version                  : "1.1.9"  #Major_Publish.Feature_Added.Content_Update
+version                  : "1.1.10"  #Major_Publish.Feature_Added.Content_Update
 locale                   : "en-US"
 title                    : "Kanad Naleshwarkar"
 title_separator          : " "
 name                     : &name "Kanad Naleshwarkar"
-description              : &description "Pursuing MEng in CS at Virginia Tech"
+description              : &description "Master's degree in CS, seeking SDE/SWE roles"
 url                      : https://kanadn.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : #"kanadn.github.io"
@@ -83,7 +83,7 @@ analytics:
 author:
   name             : #"Kanad Naleshwarkar"
   avatar           : "kanad.jpg"
-  bio              : "Pursuing MEng in CS at Virginia Tech"
+  bio              : "Master's degree in CS, seeking SDE/SWE roles"
   location         : "Blacksburg, VA, United States"
   employer         : #"Hansen Technologies"
   googlescholar    : #"https://scholar.google.com/citations?hl=en&user=CjxQvikAAAAJ"

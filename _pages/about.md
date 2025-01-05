@@ -9,8 +9,6 @@ redirect_from:
 ---
 
 
-Currently pursuing a Master of Engineering degree in Computer Science at Virginia Tech.
-
 Previously, a software developer at Hansen Technologies, where I worked on developing and configuring an operations support system (OSS) for telecommunications service providers.  
 For the summer of 2023, I joined Hansen again on a contract basis and contributed toward streamlining the training process for new hires. By creating well-structured training modules and comprehensive documentation, I helped reduce the onboarding time so that new team members could quickly start contributing to the project.  
 
@@ -30,7 +28,7 @@ Dr. Jayshree Pansare, Kanad Naleshwarkar, Nitish Prajapati, Aditya Muley
 
 
 # News
-
+- **December, 2024:** Graduated from Virginia Tech with a master's degree in computer science!
 - **May, 2023:** Joined Hansen Technologies again as a software developer on a contract basis for the summer.
 - **January, 2023:** Thrilled to join [Virginia Tech](https://www.vt.edu/) for MEng in CS course!
 - **August, 2022:** Gave a talk at the [IIC MESCOE](https://mescoe.mespune.org/institutions-innovation-council-iic-mescoe/) on Innovative and Collaborative Approaches for Scaling Capstone Projects. Recording is available [here](https://youtu.be/oJxcZPTjklg).
